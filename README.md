@@ -9,6 +9,24 @@ The system processes CCTV footage in real-time using computer vision, tracking, 
 ---
 
 ## Features
+# Screenshots
+
+## Swagger API Documentation
+
+![Swagger API](docs/swagger.png)
+
+---
+
+## Store Intelligence Dashboard
+
+![Dashboard](docs/dashboard.png)
+
+---
+
+## Detection & Tracking Pipeline
+
+![Detection Pipeline](docs/detection.png)
+
 
 ### Computer Vision Pipeline
 
