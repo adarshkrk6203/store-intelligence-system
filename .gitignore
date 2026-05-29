@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.pytest_cache/
+data/events.jsonl
+videos/output.mp4
+videos/*.mp4
+*.zip
+*.db
+.vscode/
+.idea/
