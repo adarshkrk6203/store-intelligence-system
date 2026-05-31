@@ -7,7 +7,9 @@ AI-powered retail analytics platform built for the Purplle Tech Challenge 2026.
 The system processes CCTV footage in real-time using computer vision, tracking, event streaming, analytics APIs, and dashboard visualization.
 
 ---
+## Problem statement
 
+“A retail chain has strong online analytics but very limited visibility inside physical stores. The goal of this project is to use CCTV footage to understand customer behavior inside stores — such as visitor count, dwell time, queue buildup, conversion rate, and customer movement across zones — and expose these insights through APIs and dashboards.”
 ## Features
 # Screenshots
 
