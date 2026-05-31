@@ -16,3 +16,4 @@ filterpy
 lap
 scipy
 requests
+plotly
